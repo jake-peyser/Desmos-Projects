@@ -1,4 +1,4 @@
-Desmos is an online graphing calculator that is more than meets the eye as Optimus Prime once said. It can graph much more than mathematical functions. Potential features range from physics simulations to amazing visualizations of mathematical principles. I've included a list of most of the graphs (links) I've created over the years for both personal use and tutoring.
+Desmos is an online graphing calculator that is more than meets the eye as Optimus Prime once said. It can graph much more than just y=f(x). Greater features range from physics simulations to amazing visualizations of mathematical principles. I've included a list of most of the graphs (links) I've created over the years for both personal use and tutoring.
 
 Here's a teaser for a few of the graphs:
 
