@@ -64,7 +64,7 @@ Cooper Union Resources:
 
 -CFD y+ Calculator: https://www.desmos.com/calculator/skneaka7pg
 
--Base Excitation Simulation: https://www.desmos.com/calculator/mkbmhrig0o
+-Base Excitation Simulation: https://www.desmos.com/calculator/m8onwduihv
 
 -Lead Lag Compensator Design: https://www.desmos.com/calculator/qaqqm0voxf
 
